@@ -1,6 +1,6 @@
 # Active Record Associations Introduction: Playlister
 
-## Objectives
+## Objectives 
 
 1. Understand how and why Active Record implements associations between models.
 2. Use Active Record migrations and methods to build out a domain model that
